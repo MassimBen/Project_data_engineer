@@ -1,6 +1,6 @@
 # Projet réalisé
 
-**Dans ce répertoire vous trouver les différents projets réalisé que sa soit des mini-projet ou des projets avancés**.
+**Dans ce répertoire vous trouverez les différents projets réalisés que sa soit des mini-projet ou des projets avancés**.
 
 Il y aura deux répertoires un pour les mini projets et l'autre pour les projets avancés :
 
